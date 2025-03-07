@@ -17,6 +17,10 @@ MobileTransfer is an app operating on MobileBackup (`idevicebackup2`). It offers
 
 This app was previously designed to be a paid app, but we are unable to provide reliable service on application backup/restore, and we have stopped developing or maintaining this app. We are open-sourcing this project to let the community continue the development.
 
+## Activation
+
+To use this app, enter any email address and license key during the activation prompt.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
