@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mobiletransfer</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>MobileTransfer</string>
+			<key>CFBundleTypeIconSystemGenerated</key>
+			<integer>1</integer>
+			<key>CFBundleTypeName</key>
+			<string>MobileTransferPackage</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>wiki.qaq.mobiletransfer.package</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<true/>
+			<key>NSDocumentClass</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>com.apple.package</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>MobileTransfer File Package</string>
+			<key>UTTypeIconFile</key>
+			<string>MobileTransfer</string>
+			<key>UTTypeIcons</key>
+			<dict>
+				<key>UTTypeIconBackgroundName</key>
+				<string>MobileTransfer</string>
+				<key>UTTypeIconBadgeName</key>
+				<string>MobileTransfer</string>
+				<key>UTTypeIconText</key>
+				<string>MobileTransfer File Package</string>
+			</dict>
+			<key>UTTypeIdentifier</key>
+			<string>wiki.qaq.mobiletransfer.package</string>
+			<key>UTTypeReferenceURL</key>
+			<string>https://github.com/Lakr233/MobileTransfer</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>mobiletransfer</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>application/x-mobiletransfer</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

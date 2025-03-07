@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MobileTransfer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ApplePackage">
+   </FileRef>
+   <FileRef
+      location = "group:Digger">
+   </FileRef>
+   <FileRef
+      location = "group:MobileBackup">
+   </FileRef>
+   <FileRef
+      location = "group:MobileInstall">
+   </FileRef>
+</Workspace>

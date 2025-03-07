@@ -1,0 +1,2255 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    ":" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ":"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "2FA Code (If Needed)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "验证码（可选）"
+          }
+        }
+      }
+    },
+    "Activate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "激活"
+          }
+        }
+      }
+    },
+    "Activate License..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "激活许可证…"
+          }
+        }
+      }
+    },
+    "Activation Failed" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "激活失败"
+          }
+        }
+      }
+    },
+    "Add Account" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加账户"
+          }
+        }
+      }
+    },
+    "Add Account Manually" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手动添加账户"
+          }
+        }
+      }
+    },
+    "Advanced" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
+        }
+      }
+    },
+    "After reboot, you may need to enter the original device password to decrypt backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在重启设备后，你可能需要输入原设备的密码来利用这个备份。"
+          }
+        }
+      }
+    },
+    "All data on the device will be erased. All data exists in backup will be restored." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备上的数据将被抹掉，备份中的数据将被恢复。"
+          }
+        }
+      }
+    },
+    "App Data (data from apps installed from the App Store)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用数据（从 App Store 安装的软件数据）"
+          }
+        }
+      }
+    },
+    "App data will be discard if the app was not installed." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份中的软件数据在恢复时若没有在设备上预先安装，则会被丢弃。"
+          }
+        }
+      }
+    },
+    "App data will be replaced if exists in backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用数据将会使用备份中的内容替换。"
+          }
+        }
+      }
+    },
+    "Archive Verified" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归档已验证"
+          }
+        }
+      }
+    },
+    "Archives" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归档"
+          }
+        }
+      }
+    },
+    "Are you sure you want to cancel the backup?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你确定要终止备份吗？"
+          }
+        }
+      }
+    },
+    "Are you sure you want to cancel the restore?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你确定要取消恢复吗？"
+          }
+        }
+      }
+    },
+    "Are you sure you want to stop install?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你确定要终止安装吗？"
+          }
+        }
+      }
+    },
+    "Authenticate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "验证"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "返回"
+          }
+        }
+      }
+    },
+    "Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份"
+          }
+        }
+      }
+    },
+    "Backup Applications" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份软件"
+          }
+        }
+      }
+    },
+    "Backup Archive" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份文件"
+          }
+        }
+      }
+    },
+    "Backup Device" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份设备"
+          }
+        }
+      }
+    },
+    "Backup Encryption" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份加密"
+          }
+        }
+      }
+    },
+    "Backup Mode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份模式"
+          }
+        }
+      }
+    },
+    "Backup Mode %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份模式 %@"
+          }
+        }
+      }
+    },
+    "Backup Requested" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已请求备份"
+          }
+        }
+      }
+    },
+    "Backups do not include applications themselves. If you need to automatically download during backup and install during recovery, please log in to the corresponding app store account here. Only App Store apps are supported, TestFlight or in-house apps are ignored." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份不包含应用程序本身。若需要在备份时自动下载，并在恢复时安装，请在此处登录对应的应用商店账号。仅可下载 App Store 软件，其他软件将被忽略。"
+          }
+        }
+      }
+    },
+    "By continuing to use the app, you agree to the agreements and policies." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续使用则表明你接受这些内容。"
+          }
+        }
+      }
+    },
+    "By using this app you agree to our Terms of Service and Privacy Policy" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用此软件及代表你已同意 服务条款 和 隐私政策"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "Cancel Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消备份"
+          }
+        }
+      }
+    },
+    "Cancel Install" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消安装"
+          }
+        }
+      }
+    },
+    "Cancel Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消恢复"
+          }
+        }
+      }
+    },
+    "Cancelled" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已取消"
+          }
+        }
+      }
+    },
+    "Checking backup encryption..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在检查备份密码..."
+          }
+        }
+      }
+    },
+    "Checking software installation info..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在核验已安装软件的信息…"
+          }
+        }
+      }
+    },
+    "Choose" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选取"
+          }
+        }
+      }
+    },
+    "Choose a Location to Save Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择一个位置来储存备份文件"
+          }
+        }
+      }
+    },
+    "Choose Backup Archive to Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择一个备份归档来恢复"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
+        }
+      }
+    },
+    "Communicating with authorization server..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在与授权服务器通信..."
+          }
+        }
+      }
+    },
+    "Completed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已完成"
+          }
+        }
+      }
+    },
+    "Contact Us" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与我们联系"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续"
+          }
+        }
+      }
+    },
+    "Continue Anyway" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仍然继续"
+          }
+        }
+      }
+    },
+    "Continue to Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续并开始恢复流程"
+          }
+        }
+      }
+    },
+    "Continue Trail" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续试用"
+          }
+        }
+      }
+    },
+    "Convert BBackupp Archive" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换 BBackupp 归档"
+          }
+        }
+      }
+    },
+    "Convert BBackupp archive for %@ to MobileTransfer format?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换来自设备 %@ 的 BBackupp 归档到迁移文件？"
+          }
+        }
+      }
+    },
+    "Convert Failed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换失败"
+          }
+        }
+      }
+    },
+    "Convert from BBackupp..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 BBackupp 转换…"
+          }
+        }
+      }
+    },
+    "Convert In Place" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改并转换"
+          }
+        }
+      }
+    },
+    "Could not check the backup encryption status of this device, please proceed with caution." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未能检查此设备的备份加密状态，请谨慎操作。"
+          }
+        }
+      }
+    },
+    "Data Excluded By App (some game resources, etc.)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已设置不可备份的数据（部分游戏资源等）"
+          }
+        }
+      }
+    },
+    "Device Locked" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备已锁定"
+          }
+        }
+      }
+    },
+    "Device Not Activated" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备未激活"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
+        }
+      }
+    },
+    "Download" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "Download device data and archive to selected destination" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存档已有设备的数据到指定位置"
+          }
+        }
+      }
+    },
+    "Download speed is slow, retrying..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载速度过慢，正在重新连接…"
+          }
+        }
+      }
+    },
+    "Downloading packages..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载软件包…"
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邮箱"
+          }
+        }
+      }
+    },
+    "Email (Apple ID)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邮箱（Apple ID）"
+          }
+        }
+      }
+    },
+    "Enable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用"
+          }
+        }
+      }
+    },
+    "Encrypted Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加密备份"
+          }
+        }
+      }
+    },
+    "Encrypted Data (keychain, etc.)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加密数据（钥匙串等）"
+          }
+        }
+      }
+    },
+    "Erase & Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "抹掉并恢复"
+          }
+        }
+      }
+    },
+    "Erase Device" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "抹掉设备"
+          }
+        }
+      }
+    },
+    "Exit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出"
+          }
+        }
+      }
+    },
+    "Failed to fetch app info" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法获取应用程序信息"
+          }
+        }
+      }
+    },
+    "Failed to install %lld applications" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有 %lld 个软件安装失败"
+          }
+        }
+      }
+    },
+    "Failed to Load" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加载失败"
+          }
+        }
+      }
+    },
+    "Failed to operate files: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法操作文件：%@"
+          }
+        }
+      }
+    },
+    "Failed to revoke license" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法注销许可证"
+          }
+        }
+      }
+    },
+    "Failed to verify this backup, please use with caution." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法验证归档文件，请小心使用。"
+          }
+        }
+      }
+    },
+    "File conflict with convert" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换所需的文件发生冲突"
+          }
+        }
+      }
+    },
+    "File hash mismatch" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件校验失败"
+          }
+        }
+      }
+    },
+    "File not found" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件不存在"
+          }
+        }
+      }
+    },
+    "Find My Enabled" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找已启用"
+          }
+        }
+      }
+    },
+    "Forgot password?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忘记密码？"
+          }
+        }
+      }
+    },
+    "Free space: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "剩余空间：%@"
+          }
+        }
+      }
+    },
+    "Hide Download App Option (Experimental)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏下载软件安装包选项（实验性）"
+          }
+        }
+      }
+    },
+    "If installed app does not open, sign in to App Store with corresponding Apple ID to activate them." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果安装的应用无法打开，请在 App Store 中登录对应的 Apple ID 来激活。"
+          }
+        }
+      }
+    },
+    "If you continue without encryption, the backup will not include sensitive data. Restoring a device from the backup will result in loss of stored passwords, Health and HomeKit data." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果继续而不进行加密，备份将不会包括敏感数据。从备份恢复设备会导致已存密码、“健康”和HomeKit数据丢失。"
+          }
+        }
+      }
+    },
+    "If you don't see the confirmation prompt, disconnect the device from your computer and try again." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果你没有看到授权的页面，请断开设备的连接，并再试一次。"
+          }
+        }
+      }
+    },
+    "Important Message" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重要信息"
+          }
+        }
+      }
+    },
+    "Info.plist not found" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Info.plist 文件未找到"
+          }
+        }
+      }
+    },
+    "Info.plist not readable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法读取 Info.plist"
+          }
+        }
+      }
+    },
+    "Install" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装"
+          }
+        }
+      }
+    },
+    "Install completed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装完成"
+          }
+        }
+      }
+    },
+    "Install Completed: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装完成：%@"
+          }
+        }
+      }
+    },
+    "Install Failed %@: %d" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Install Failed %1$@: %2$d"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装失败 %1$@：%2$d"
+          }
+        }
+      }
+    },
+    "Installing %d apps..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在安装 %d 个软件…"
+          }
+        }
+      }
+    },
+    "Installing..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在安装..."
+          }
+        }
+      }
+    },
+    "Invalid Archive" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归档不可用"
+          }
+        }
+      }
+    },
+    "iOS Version Too Old" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 系统版本过低"
+          }
+        }
+      }
+    },
+    "Key" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密码"
+          }
+        }
+      }
+    },
+    "Learn More (Enable Encrypted Backup)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解更多（启用备份加密）"
+          }
+        }
+      }
+    },
+    "License" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "许可证"
+          }
+        }
+      }
+    },
+    "License expires on:" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "许可证过期时间："
+          }
+        }
+      }
+    },
+    "License Information..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "许可证信息…"
+          }
+        }
+      }
+    },
+    "Load Checkpoint..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加载检查点..."
+          }
+        }
+      }
+    },
+    "Manifest.plist not found" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manifest.plist 文件未找到"
+          }
+        }
+      }
+    },
+    "Manifest.plist not readable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法读取 Manifest.plist 文件"
+          }
+        }
+      }
+    },
+    "Menu Disabled: Application In Use" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "菜单被禁用：软件正在使用中"
+          }
+        }
+      }
+    },
+    "Merge" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "合并"
+          }
+        }
+      }
+    },
+    "Merge (Without Install Application)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "合并（不安装备份中的软件）"
+          }
+        }
+      }
+    },
+    "Merge Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "合并恢复"
+          }
+        }
+      }
+    },
+    "Merge Restore - Preflight Check" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "合并恢复 - 术前检查"
+          }
+        }
+      }
+    },
+    "Message" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
+    },
+    "Move to Trash" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移动到废纸篓"
+          }
+        }
+      }
+    },
+    "MT-XXXX-XXXX-XXXX" : {
+      "shouldTranslate" : false
+    },
+    "Need help?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要帮助？"
+          }
+        }
+      }
+    },
+    "Never Expire" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不会过期"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一步"
+          }
+        }
+      }
+    },
+    "No App Store account found" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到应用商店账号"
+          }
+        }
+      }
+    },
+    "Not Selected" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未选择"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好"
+          }
+        }
+      }
+    },
+    "Only Merge Restore can be used to install applications downloaded here." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅合并恢复模式可以安装此处下载的软件包。"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密码"
+          }
+        }
+      }
+    },
+    "Please activate the device before restoring. If you are on setup, continue the process and get back when pass the activation screen." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请激活设备后再次尝试。如果你正在设置你的新设备，请继续操作直到激活页面结束。"
+          }
+        }
+      }
+    },
+    "Please choose a backup storage location. Make sure this location is safe and has fast read and write speeds." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请选择一个备份存储位置。请确保此位置安全且读写速度快。"
+          }
+        }
+      }
+    },
+    "Please choose a backup to restore." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请选择用于恢复的备份文件"
+          }
+        }
+      }
+    },
+    "Please connect your device to this computer via a cable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请使用线缆连接设备"
+          }
+        }
+      }
+    },
+    "Please disable Find My before restoring." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请关闭查找后再试一次"
+          }
+        }
+      }
+    },
+    "Please enter the password on the device if needed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如需要，请在设备上输入密码。"
+          }
+        }
+      }
+    },
+    "Please review all the following agreements and policies carefully. You must accept all the agreements and policies to continue using the app." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请仔细阅读全部的服务条款和使用政策。你必须接受全部条款和协议才能使用此软件。"
+          }
+        }
+      }
+    },
+    "Please scroll down and check each item carefully" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请向下滚动仔细检查每一项设置"
+          }
+        }
+      }
+    },
+    "Please trust this computer on your device." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请在设备上信任此电脑。"
+          }
+        }
+      }
+    },
+    "Prepare Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "准备备份"
+          }
+        }
+      }
+    },
+    "Prepare Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "准备恢复"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐私政策"
+          }
+        }
+      }
+    },
+    "Replace" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "替换"
+          }
+        }
+      }
+    },
+    "Replace Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "替换恢复"
+          }
+        }
+      }
+    },
+    "Requested %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已请求安装 %@"
+          }
+        }
+      }
+    },
+    "Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复"
+          }
+        }
+      }
+    },
+    "Restore Complete" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复完成"
+          }
+        }
+      }
+    },
+    "Restore Device" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复设备"
+          }
+        }
+      }
+    },
+    "Restore device data from selected archive" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复选定存档的数据到设备"
+          }
+        }
+      }
+    },
+    "Restore Mode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复模式"
+          }
+        }
+      }
+    },
+    "Restore Mode %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复模式 %@"
+          }
+        }
+      }
+    },
+    "Revoke" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注销许可证"
+          }
+        }
+      }
+    },
+    "Revoke Activation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注销许可证"
+          }
+        }
+      }
+    },
+    "Revoke License" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注销许可证"
+          }
+        }
+      }
+    },
+    "Scanning for devices..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在扫描设备…"
+          }
+        }
+      }
+    },
+    "Select a restore mode to proceed." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请选择一个恢复模式"
+          }
+        }
+      }
+    },
+    "Select..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择..."
+          }
+        }
+      }
+    },
+    "Selected file is not a directory" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选取的文件不是文件夹"
+          }
+        }
+      }
+    },
+    "Show Download App Option (Experimental)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示下载软件安装包选项（实验性）"
+          }
+        }
+      }
+    },
+    "Show In Finder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在访达中显示"
+          }
+        }
+      }
+    },
+    "Sign In" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登录"
+          }
+        }
+      }
+    },
+    "Sign Out" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出登录"
+          }
+        }
+      }
+    },
+    "Skipped due to already installed %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳过已安装内容 %@"
+          }
+        }
+      }
+    },
+    "Snapshot not finished" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归档快照未完成"
+          }
+        }
+      }
+    },
+    "Software License" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软件许可"
+          }
+        }
+      }
+    },
+    "Some of the app required by this backup is not yet installed. By continue, the data of these apps will be lost." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份中的部分软件没有安装。若继续恢复，这些软件的数据将会丢失。"
+          }
+        }
+      }
+    },
+    "Start Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始备份"
+          }
+        }
+      }
+    },
+    "Start Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始恢复"
+          }
+        }
+      }
+    },
+    "Start Trail" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始试用"
+          }
+        }
+      }
+    },
+    "Status.plist not found" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status.plist 文件未找到"
+          }
+        }
+      }
+    },
+    "Status.plist not readable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法读取 Status.plist 文件"
+          }
+        }
+      }
+    },
+    "Stop" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止"
+          }
+        }
+      }
+    },
+    "Stop Backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止备份"
+          }
+        }
+      }
+    },
+    "Stop Install" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止安装"
+          }
+        }
+      }
+    },
+    "Stop Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止恢复"
+          }
+        }
+      }
+    },
+    "Storage Location" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储存位置"
+          }
+        }
+      }
+    },
+    "Success %lld Failure %lld Total %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Success %1$lld Failure %2$lld Total %3$lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成 %1$lld 失败 %2$lld 总计 %3$lld"
+          }
+        }
+      }
+    },
+    "System Data (photos, contacts, messages, emails...)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统数据（相册、通讯录、短信、邮件等）"
+          }
+        }
+      }
+    },
+    "System data (photos, music, messages...) will be merged." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统数据，如照片、音乐、信息等，将会被合并。"
+          }
+        }
+      }
+    },
+    "Task Completed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任务完成"
+          }
+        }
+      }
+    },
+    "Terms of Service" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务条款"
+          }
+        }
+      }
+    },
+    "The backup was created on a newer version of iOS. Please update the device to the latest version before restoring." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此备份由更高版本的 iOS 系统创建，需要更新你的设备才能从此备份恢复。"
+          }
+        }
+      }
+    },
+    "The device is rebooting, please wait for it to finish." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备正在重新启动"
+          }
+        }
+      }
+    },
+    "The device will be erased when restoring." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备在恢复过程中将被抹掉"
+          }
+        }
+      }
+    },
+    "The MobileTransfer installed on this computer is licensed to:" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此计算机安装的 迁移 授权给："
+          }
+        }
+      }
+    },
+    "The selected archive is invalid or corrupted." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选用的备份文件不可用或已损坏"
+          }
+        }
+      }
+    },
+    "The selected archive is invalid or corrupted. %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选定的归档不正确或已损坏。%@"
+          }
+        }
+      }
+    },
+    "The selected archive looks validate and contains %d applications." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选定的归档似乎是完好的，且含有%d个软件安装包。"
+          }
+        }
+      }
+    },
+    "The selected archive looks validate." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选定的归档似乎是完好的。"
+          }
+        }
+      }
+    },
+    "There are two types of restore modes, **Merge Restore** and **Replace Restore**." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此程序提供两种恢复模式：**合并恢复** 和 **替换恢复** 。"
+          }
+        }
+      }
+    },
+    "Therefor, we suggest you to choose **Merge Restore**." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "因此，我们推荐你选择 **合并恢复**。"
+          }
+        }
+      }
+    },
+    "This backup does not include any apps, we suggest you to choose **Replace Restore**." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此备份不包含软件安装包，因此我们推荐使用 **替换恢复**。"
+          }
+        }
+      }
+    },
+    "This backup includes %lld apps, which can not be installed if using Replace Restore." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此备份包含 %lld 个软件安装包。这些软件不能在使用替换恢复时安装。"
+          }
+        }
+      }
+    },
+    "This backup is encrypted, please provide the password to restore." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请提供密码以解密此备份的数据"
+          }
+        }
+      }
+    },
+    "This device does not have a backup password set." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此设备没有设置备份密码。"
+          }
+        }
+      }
+    },
+    "This device has %lld applications installed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此设备装有 %lld 个应用程序"
+          }
+        }
+      }
+    },
+    "This device has %lld apps installed, %lld of them is unable to get account information, will use first eligible account to download." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This device has %1$lld apps installed, %2$lld of them is unable to get account information, will use first eligible account to download."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此设备装有 %1$lld 个软件，其中 %2$lld 个软件不包含账号信息，将会使用首个可用账户下载。"
+          }
+        }
+      }
+    },
+    "This device has a backup password set, you will need the password to use this backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此设备已经设置了备份密码，稍后将需要密码才能使用此备份。"
+          }
+        }
+      }
+    },
+    "This is a trial version of MobileTransfer. Please activate the app to use all features." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你正在试用迁移。请使用授权码激活软件以利用全部功能。"
+          }
+        }
+      }
+    },
+    "This operation is limited, please be careful." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此操作可用次数有限，请谨慎操作。"
+          }
+        }
+      }
+    },
+    "Trail End" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "试用结束于"
+          }
+        }
+      }
+    },
+    "Trail User" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "试用用户"
+          }
+        }
+      }
+    },
+    "UDID is empty" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备标识符为空"
+          }
+        }
+      }
+    },
+    "Unable to check free space" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法获取剩余空间"
+          }
+        }
+      }
+    },
+    "Unable to connect to device" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法连接到设备"
+          }
+        }
+      }
+    },
+    "Unable to decode Device.plist" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法解析设备属性文件"
+          }
+        }
+      }
+    },
+    "Unable to determine device identifier" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法确定设备标识符"
+          }
+        }
+      }
+    },
+    "Unable to determine snapshot status" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法确认快照状态"
+          }
+        }
+      }
+    },
+    "Unable to determine system build version" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法确认系统版本"
+          }
+        }
+      }
+    },
+    "Unable to list contents of backup location" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法列出备份内容"
+          }
+        }
+      }
+    },
+    "Unable to load checkpoint from another device" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法加载另一个设备的检查点"
+          }
+        }
+      }
+    },
+    "Unable to read from Device.plist" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法读取设备属性文件"
+          }
+        }
+      }
+    },
+    "Unable to validate archive at %@: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to validate archive at %1$@: %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法验证存放在 %1$@ 的归档文件：%2$@"
+          }
+        }
+      }
+    },
+    "Unable to verify backup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法验证备份"
+          }
+        }
+      }
+    },
+    "Unknown error" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知错误"
+          }
+        }
+      }
+    },
+    "Upgrade with Finder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 访达 更新"
+          }
+        }
+      }
+    },
+    "Verified Archive" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已验证的归档"
+          }
+        }
+      }
+    },
+    "Verify Archive..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "验证归档…"
+          }
+        }
+      }
+    },
+    "Verifying Archive..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在验证归档…"
+          }
+        }
+      }
+    },
+    "Verifying download..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "验证下载内容…"
+          }
+        }
+      }
+    },
+    "Waiting for device to connect" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等待设备连接"
+          }
+        }
+      }
+    },
+    "Waiting..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等待中…"
+          }
+        }
+      }
+    },
+    "What is BBackupp?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于 BBackupp"
+          }
+        }
+      }
+    },
+    "Will erase your device and restore the backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将会抹掉此设备以恢复备份。"
+          }
+        }
+      }
+    },
+    "Will install apps and restore backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将会安装软件，然后尝试恢复数据。"
+          }
+        }
+      }
+    },
+    "Will restore backup and merge with existing data on device." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将会恢复备份并与设备上现有的数据合并。"
+          }
+        }
+      }
+    },
+    "xxxx@xxx.xxx" : {
+      "shouldTranslate" : false
+    },
+    "You can also drag backup file here to begin restore." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你也可选择拖拽备份归档到此进行恢复。"
+          }
+        }
+      }
+    },
+    "You cannot install apps comes within the backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你无法使用备份中包含的软件安装包来安装软件。"
+          }
+        }
+      }
+    },
+    "You have installed all apps required to restore this backup." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你已安装备份中所包含的全部软件。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
