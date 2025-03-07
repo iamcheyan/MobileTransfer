@@ -1,5 +1,10 @@
 # MobileTransfer
 
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="/Resources/i18n/zh/README.md">简体中文</a>
+</p>
+
 MobileTransfer is an app operating on MobileBackup (`idevicebackup2`). It offers a way to backup and restore data on iOS devices.
 
 ![Screenshot](./Resources/Screenshot.png)
