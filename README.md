@@ -3,10 +3,11 @@
 本项目基于 [砍砍@标准件厂长（Lakr Aream）](https://github.com/Lakr233) 的开源代码进行开发。  
 © 2024 砍砍@标准件厂长 版权所有。
 
-本仓库为 [iamcheyan](https://github.com/iamcheyan) 的 fork 版本，主要维护与更新：  
-由于原版本已开源，本分支去除了激活功能，可直接使用。
+本仓库为 [iamcheyan](https://github.com/iamcheyan) 的 fork 版本。  
+
 
 ### 本分支改动
+- 由于原版本已开源，本分支去除了激活功能，可直接使用
 - 修复原项目中的部分问题
 - 增加日语本地化支持（Language 菜单内可切换：中文 / English / 日本語 / Auto）
 - 持续兼容最新 macOS 版本
