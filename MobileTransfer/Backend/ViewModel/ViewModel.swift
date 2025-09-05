@@ -16,6 +16,8 @@ class ViewModel: ObservableObject {
 
     static let defaultBackupLocation = URL(fileURLWithPath: NSTemporaryDirectory())
         .appendingPathComponent("MobileTransfer")
+    
+    static let copyrightText = "© 2024 砍砍@标准件厂长 版权所有"
 
     var cancellables: Set<AnyCancellable> = .init()
 

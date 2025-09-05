@@ -23,7 +23,7 @@ struct FootnoteView: View {
         }
         switch vm.mode {
         case .unspecified:
-            return "© 2024 砍砍@标准件厂长 版权所有" // 显示版权信息
+            return LocalizedStringKey(ViewModel.copyrightText) // 显示版权信息
         case .backup:
             if let did = vm.deviceIdentifier {
                 return "Backup Mode \(did)"
