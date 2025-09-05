@@ -30,7 +30,7 @@ class ViewModel: ObservableObject {
         case installApplication
     }
 
-    @Published var navigationArray: [Page] = [.welcome]
+    @Published var navigationArray: [Page] = [.actionMenu]
 
     enum Mode {
         case unspecified
@@ -129,6 +129,7 @@ class ViewModel: ObservableObject {
         restoreMode = .unspecified
         restoreTask = nil
         applicationInstallTask = nil
+        navigationArray = [.actionMenu]
 
         DispatchQueue.main.async { DockProgress.resetProgress() }
     }
