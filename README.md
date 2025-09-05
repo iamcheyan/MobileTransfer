@@ -1,35 +1,42 @@
-# MobileTransfer
+## 📦 MobileTransfer
 
-<p align="center">
-  <a href="README.md">English</a> |
-  <a href="/Resources/i18n/zh/README.md">简体中文</a>
-</p>
+本项目基于 [砍砍@标准件厂长（Lakr Aream）](https://github.com/Lakr233) 的开源代码进行开发。  
+© 2024 砍砍@标准件厂长 版权所有。
 
-MobileTransfer is an app operating on MobileBackup (`idevicebackup2`). It offers a way to backup and restore data on iOS devices.
+本仓库为 [iamcheyan](https://github.com/iamcheyan) 的 fork 版本，主要维护与更新：  
+由于原版本已开源，本分支去除了激活功能，可直接使用。
 
+### 本分支改动
+- 修复原项目中的部分问题
+- 增加日语本地化支持（Language 菜单内可切换：中文 / English / 日本語 / Auto）
+- 持续兼容最新 macOS 版本
+
+### 原项目功能（汇总自上游说明）
+- 备份与恢复 iOS 设备数据
+- 从 [BBackupp](https://github.com/Lakr233/BBackupp) 转换备份
+- 备份/恢复 App（实验性，受 API 变更影响可能不可用）
+- 设置备份密码
+- 自定义路径备份并从该路径恢复
+- 增量备份（菜单 -> Backup -> Load Checkpoint）
+
+### 截图
 ![Screenshot](./Resources/Screenshot.png)
 
-## Features
+### 构建与运行
+1. 使用 Xcode 打开 `MobileTransfer.xcworkspace`
+2. 选择目标 `MobileTransfer`，直接 Build & Run
 
-- [x] Backup and restore data on iOS devices
-- [x] Convert backup from [BBackupp](https://github.com/Lakr233/BBackupp)
-- [x] Backup and restore apps (experimental, currently broken due to API change)
-- [x] Set backup password
-- [x] Backup to custom path and restore from there
-- [x] Increment backup (menu -> backup -> load checkpoint)
+### 语言与本地化
+- 已支持：`en`、`zh-Hans`、`ja`
+- 应用内通过菜单 `Language` 切换；也可选择 `Auto (System)` 跟随系统
 
-## Special Note
+### 版权与致谢
+- 原作与主要工作来自上游仓库作者：砍砍@标准件厂长（Lakr Aream）
+- 如需查看原始项目，请访问：[Lakr233/MobileTransfer](https://github.com/Lakr233/MobileTransfer)
 
-This app was previously designed to be a paid app, but we are unable to provide reliable service on application backup/restore, and we have stopped developing or maintaining this app. We are open-sourcing this project to let the community continue the development.
+### 许可证
+遵循 MIT 协议，详见 [LICENSE](./LICENSE)。
 
-## Activation
+—
 
-To use this app, enter any email address and license key during the activation prompt.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-Copyright © 2025 Lakr Aream. All Rights Reserved.
+原作 © 砍砍@标准件厂长 · 本版本维护更新： [iamcheyan](https://github.com/iamcheyan)

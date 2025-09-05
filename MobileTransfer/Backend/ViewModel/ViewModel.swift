@@ -17,7 +17,7 @@ class ViewModel: ObservableObject {
     static let defaultBackupLocation = URL(fileURLWithPath: NSTemporaryDirectory())
         .appendingPathComponent("MobileTransfer")
     
-    static let copyrightText = "© 2024 砍砍@标准件厂长 版权所有"
+    static let copyrightText = "原作 © 砍砍@标准件厂长 · 本版本维护更新：me@iamcheyan"
     
     // MARK: - Language Settings
     

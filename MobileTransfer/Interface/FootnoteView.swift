@@ -71,13 +71,24 @@ struct FootnoteView: View {
                 }
                 .buttonStyle(.plain)
             } else {
-                Text(footnote)
-                    .lineLimit(1)
-                    .underline(showAgreements)
-                    .frame(maxWidth: .infinity)
-                    .multilineTextAlignment(.center)
-                    .contentTransition(.numericText())
-                    .onTapGesture { if showAgreements { openAgreementSheet = true } }
+                if vm.mode == .unspecified {
+                    Link(destination: URL(string: "https://github.com/iamcheyan/MobileTransfer")!) {
+                        Text(footnote)
+                            .lineLimit(1)
+                            .frame(maxWidth: .infinity)
+                            .multilineTextAlignment(.center)
+                            .contentTransition(.numericText())
+                    }
+                    .buttonStyle(.plain)
+                } else {
+                    Text(footnote)
+                        .lineLimit(1)
+                        .underline(showAgreements)
+                        .frame(maxWidth: .infinity)
+                        .multilineTextAlignment(.center)
+                        .contentTransition(.numericText())
+                        .onTapGesture { if showAgreements { openAgreementSheet = true } }
+                }
             }
             Text(version)
                 .lineLimit(1)
