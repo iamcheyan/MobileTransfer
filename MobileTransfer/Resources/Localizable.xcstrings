@@ -1175,6 +1175,12 @@
     "Language" : {
 
     },
+    "Language Changed" : {
+
+    },
+    "Later" : {
+
+    },
     "Learn More (Enable Encrypted Backup)" : {
       "localizations" : {
         "zh-Hans" : {
@@ -1568,6 +1574,9 @@
         }
       }
     },
+    "Please restart the application for the language change to take effect." : {
+
+    },
     "Please review all the following agreements and policies carefully. You must accept all the agreements and policies to continue using the app." : {
       "localizations" : {
         "ja" : {
@@ -1705,6 +1714,9 @@
           }
         }
       }
+    },
+    "Restart Now" : {
+
     },
     "Restore" : {
       "localizations" : {

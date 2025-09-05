@@ -33,7 +33,29 @@ class ViewModel: ObservableObject {
     
     func setLanguage(_ language: String) {
         selectedLanguage = language
-        // 重启应用以应用新语言
+        UserDefaults.standard.set([language], forKey: "AppleLanguages")
+        UserDefaults.standard.synchronize()
+        
+        let alert = NSAlert()
+        alert.messageText = NSLocalizedString("Language Changed", comment: "")
+        alert.informativeText = NSLocalizedString("Please restart the application for the language change to take effect.", comment: "")
+        alert.addButton(withTitle: NSLocalizedString("Restart Now", comment: ""))
+        alert.addButton(withTitle: NSLocalizedString("Later", comment: ""))
+        
+        if let window = NSApp.windows.first {
+            alert.beginSheetModal(for: window) { response in
+                if response == .alertFirstButtonReturn {
+                    // アプリケーションを再起動
+                    let url = Bundle.main.bundleURL
+                    let configuration = NSWorkspace.OpenConfiguration()
+                    NSWorkspace.shared.openApplication(at: url, configuration: configuration) { _, error in
+                        if error == nil {
+                            NSApplication.shared.terminate(nil)
+                        }
+                    }
+                }
+            }
+        }
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
             NSApplication.shared.terminate(nil)
         }
