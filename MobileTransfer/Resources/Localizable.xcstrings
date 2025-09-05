@@ -37,6 +37,7 @@
       }
     },
     "Activate" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -47,6 +48,7 @@
       }
     },
     "Activate License..." : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -438,6 +440,7 @@
       }
     },
     "Communicating with authorization server..." : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -458,6 +461,7 @@
       }
     },
     "Contact Us" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -649,6 +653,7 @@
       }
     },
     "Email" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -719,6 +724,7 @@
       }
     },
     "Exit" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1006,6 +1012,7 @@
       }
     },
     "Key" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1026,6 +1033,7 @@
       }
     },
     "License" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1036,6 +1044,7 @@
       }
     },
     "License expires on:" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1046,6 +1055,7 @@
       }
     },
     "License Information..." : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1086,6 +1096,7 @@
       }
     },
     "Menu Disabled: Application In Use" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1155,9 +1166,6 @@
         }
       }
     },
-    "MT-XXXX-XXXX-XXXX" : {
-      "shouldTranslate" : false
-    },
     "Need help?" : {
       "localizations" : {
         "zh-Hans" : {
@@ -1169,6 +1177,7 @@
       }
     },
     "Never Expire" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1449,6 +1458,7 @@
       }
     },
     "Revoke" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1459,6 +1469,7 @@
       }
     },
     "Revoke Activation" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1469,6 +1480,7 @@
       }
     },
     "Revoke License" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1786,6 +1798,7 @@
       }
     },
     "The MobileTransfer installed on this computer is licensed to:" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1932,6 +1945,7 @@
       }
     },
     "This is a trial version of MobileTransfer. Please activate the app to use all features." : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1942,6 +1956,7 @@
       }
     },
     "This operation is limited, please be careful." : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1952,6 +1967,7 @@
       }
     },
     "Trail End" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -1962,6 +1978,7 @@
       }
     },
     "Trail User" : {
+      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -2216,9 +2233,6 @@
           }
         }
       }
-    },
-    "xxxx@xxx.xxx" : {
-      "shouldTranslate" : false
     },
     "You can also drag backup file here to begin restore." : {
       "localizations" : {

@@ -14,7 +14,7 @@ struct FootnoteView: View {
     @AppStorage("AgreementsShown") var agreementsShown = false
 
     var showAgreements: Bool {
-        vm.mode == .unspecified
+        false // 不再显示服务条款提示
     }
 
     var footnote: LocalizedStringKey {

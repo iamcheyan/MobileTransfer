@@ -72,9 +72,6 @@
 		509467412CA3D72A0033B1EB /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5094673D2CA3D72A0033B1EB /* Device.swift */; };
 		509467432CA3D72A0033B1EB /* PairRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5094673F2CA3D72A0033B1EB /* PairRecord.swift */; };
 		509467452CA3D8770033B1EB /* FootnoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 509467442CA3D8770033B1EB /* FootnoteView.swift */; };
-		50A4C9632CC1023000954D3E /* LicensePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A4C9622CC1023000954D3E /* LicensePageView.swift */; };
-		50A4C9652CC1031E00954D3E /* ActivationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A4C9642CC1031E00954D3E /* ActivationView.swift */; };
-		50A4C9672CC1035400954D3E /* LicenseInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A4C9662CC1035400954D3E /* LicenseInfoView.swift */; };
 		50A4C96A2CC1089000954D3E /* ConfettiSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 50A4C9692CC1089000954D3E /* ConfettiSwiftUI */; };
 		50A7D5BE2CA42D3500A9CBFB /* Digger in Frameworks */ = {isa = PBXBuildFile; productRef = 50A7D5BD2CA42D3500A9CBFB /* Digger */; };
 		50A7D5C02CA4353700A9CBFB /* MD5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A7D5BF2CA4353700A9CBFB /* MD5.swift */; };
@@ -173,9 +170,6 @@
 		5094673D2CA3D72A0033B1EB /* Device.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 		5094673F2CA3D72A0033B1EB /* PairRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairRecord.swift; sourceTree = "<group>"; };
 		509467442CA3D8770033B1EB /* FootnoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootnoteView.swift; sourceTree = "<group>"; };
-		50A4C9622CC1023000954D3E /* LicensePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicensePageView.swift; sourceTree = "<group>"; };
-		50A4C9642CC1031E00954D3E /* ActivationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivationView.swift; sourceTree = "<group>"; };
-		50A4C9662CC1035400954D3E /* LicenseInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicenseInfoView.swift; sourceTree = "<group>"; };
 		50A7D5BF2CA4353700A9CBFB /* MD5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MD5.swift; sourceTree = "<group>"; };
 		50A7D5C12CA4372200A9CBFB /* ApplicationDownloadTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationDownloadTaskView.swift; sourceTree = "<group>"; };
 		50A7D5C82CA5055400A9CBFB /* MobileTransfer.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = MobileTransfer.icns; sourceTree = "<group>"; };
@@ -432,9 +426,6 @@
 				50C18C392CA3F5CC00F9F428 /* WebView.swift */,
 				50C18C462CA409AB00F9F428 /* ProgressPanelView.swift */,
 				507CF2BB2CA69A8F00B581CF /* AgreementSheetView.swift */,
-				50A4C9622CC1023000954D3E /* LicensePageView.swift */,
-				50A4C9642CC1031E00954D3E /* ActivationView.swift */,
-				50A4C9662CC1035400954D3E /* LicenseInfoView.swift */,
 			);
 			path = Interface;
 			sourceTree = "<group>";
@@ -610,7 +601,6 @@
 				505202F32CB7964F0043C24D /* Archives.swift in Sources */,
 				509467332CA3D6AE0033B1EB /* AMDManager+Apps.swift in Sources */,
 				50C18C1A2CA3E51400F9F428 /* MessageBoxView.swift in Sources */,
-				50A4C9632CC1023000954D3E /* LicensePageView.swift in Sources */,
 				50A7D5C22CA4372200A9CBFB /* ApplicationDownloadTaskView.swift in Sources */,
 				509467342CA3D6AE0033B1EB /* AMDUtils.swift in Sources */,
 				50C18C572CA4196200F9F428 /* MobileBackupTask.swift in Sources */,
@@ -623,7 +613,6 @@
 				507CA2902CA5CE5700492E81 /* MobileInstallTask.swift in Sources */,
 				50910AFE2CAE8B99003D9725 /* RestoreModeInfoView.swift in Sources */,
 				50C18C432CA4078600F9F428 /* AppStoreBackend.swift in Sources */,
-				50A4C9672CC1035400954D3E /* LicenseInfoView.swift in Sources */,
 				50F485352CA3D11D0000FEF6 /* ContentView.swift in Sources */,
 				505386A32CA3C7160087A63A /* ActionMenuView.swift in Sources */,
 				50C18C5D2CA42B4400F9F428 /* MobileAppConnectTask.swift in Sources */,
@@ -672,7 +661,6 @@
 				50869ECA2CA5335300B44553 /* RestoreTask.swift in Sources */,
 				5089DD0C2CAED1520028BFF5 /* KeepAwake.swift in Sources */,
 				5053867C2CA3BC9F0087A63A /* ViewModel.swift in Sources */,
-				50A4C9652CC1031E00954D3E /* ActivationView.swift in Sources */,
 				50C18C4D2CA4145400F9F428 /* BackupProgressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

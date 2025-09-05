@@ -82,25 +82,6 @@ class ViewModel: ObservableObject {
     @Published var restoreTask: RestoreTask?
     @Published var applicationInstallTask: MobileInstallTask?
 
-    // MARK: - Activation
-
-    struct LicenseInfo: Codable, Equatable {
-        var licensee: String
-        var licenseKey: String
-        var validateTo: Date
-    }
-
-    @PublishedStorage(key: "LicenseInfo", defaultValue: nil)
-    var licenseInfo: LicenseInfo?
-
-    var isLicenseTrail: Bool {
-        guard let info = licenseInfo else { return false }
-//        return [
-//            info.licensee == Mew.trailEmail,
-//            info.licenseKey == Mew.trailKey,
-//        ].reduce(false) { $0 || $1 }
-        return false
-    }
 
     // MARK: - rest of us
 
