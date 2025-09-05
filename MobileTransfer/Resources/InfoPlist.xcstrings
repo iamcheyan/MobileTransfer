@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "迁移"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移行"
+          }
         }
       }
     },
@@ -34,6 +40,12 @@
             "state" : "translated",
             "value" : "迁移"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移行"
+          }
         }
       }
     },
@@ -49,6 +61,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "迁移数据包"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MobileTransfer ファイルパッケージ"
           }
         }
       }
@@ -67,6 +85,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "© 2024 砍砍@标准件厂长 版权所有"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2024 Lakr Aream. All Rights Reserved."
           }
         }
       }

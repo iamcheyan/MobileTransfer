@@ -24,7 +24,7 @@ let package = Package(
             cSettings: [
                 .unsafeFlags(["-w"]),
                 .define("PACKAGE_NAME=\"MobileInstall\""),
-                .define("PACKAGE_VERSION=\"5bdc4dcd\""),
+                .define("PACKAGE_VERSION=\"1a081ff7\""),
                 .define("PACKAGE_URL=\"UNAVAILABLE\""),
                 .define("PACKAGE_BUGREPORT=\"UNAVAILABLE\""),
                 .define("HAVE_VASPRINTF"),

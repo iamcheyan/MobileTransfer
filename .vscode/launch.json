@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:MobileTransfer}/MobileBackup",
+            "name": "Debug MobileBackup (MobileBackup)",
+            "program": "${workspaceFolder:MobileTransfer}/MobileBackup/.build/debug/MobileBackup",
+            "preLaunchTask": "swift: Build Debug MobileBackup (MobileBackup)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:MobileTransfer}/MobileBackup",
+            "name": "Release MobileBackup (MobileBackup)",
+            "program": "${workspaceFolder:MobileTransfer}/MobileBackup/.build/release/MobileBackup",
+            "preLaunchTask": "swift: Build Release MobileBackup (MobileBackup)"
+        }
+    ]
+}
