@@ -18,6 +18,26 @@ class ViewModel: ObservableObject {
         .appendingPathComponent("MobileTransfer")
     
     static let copyrightText = "© 2024 砍砍@标准件厂长 版权所有"
+    
+    // MARK: - Language Settings
+    
+    @PublishedStorage(key: "SelectedLanguage", defaultValue: "auto")
+    var selectedLanguage: String
+    
+    var currentLanguage: String {
+        if selectedLanguage == "auto" {
+            return Locale.current.language.languageCode?.identifier ?? "en"
+        }
+        return selectedLanguage
+    }
+    
+    func setLanguage(_ language: String) {
+        selectedLanguage = language
+        // 重启应用以应用新语言
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+            NSApplication.shared.terminate(nil)
+        }
+    }
 
     var cancellables: Set<AnyCancellable> = .init()
 

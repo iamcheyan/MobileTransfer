@@ -61,5 +61,29 @@ extension MobileTransfer {
                 }
             }
         }
+        
+        CommandMenu("Language") {
+            Button("中文") {
+                vm.setLanguage("zh-Hans")
+            }
+            .disabled(vm.selectedLanguage == "zh-Hans")
+            
+            Button("English") {
+                vm.setLanguage("en")
+            }
+            .disabled(vm.selectedLanguage == "en")
+            
+            Button("日本語") {
+                vm.setLanguage("ja")
+            }
+            .disabled(vm.selectedLanguage == "ja")
+            
+            Divider()
+            
+            Button("Auto (System)") {
+                vm.setLanguage("auto")
+            }
+            .disabled(vm.selectedLanguage == "auto")
+        }
     }
 }
