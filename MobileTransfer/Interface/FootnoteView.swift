@@ -23,8 +23,7 @@ struct FootnoteView: View {
         }
         switch vm.mode {
         case .unspecified:
-            assertionFailure()
-            return ""
+            return "© 2024 砍砍@标准件厂长 版权所有" // 显示版权信息
         case .backup:
             if let did = vm.deviceIdentifier {
                 return "Backup Mode \(did)"
@@ -114,7 +113,7 @@ private extension ViewModel.Page {
         case .welcome:
             false
         case .actionMenu:
-            true
+            false // 功能区不需要返回按钮
         case .findDevice:
             true
         case .prepareBackup, .prepareRestore:
